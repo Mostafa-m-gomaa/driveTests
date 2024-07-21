@@ -157,86 +157,86 @@ export const docFaseOne = [
     {
         id: 1,
         name: ' Matrijsnotitie 1A',
-        link : 'https://docs.google.com/document/d/1i_iNV4MDzShKAvKXflMa33lrSuk5jgA9/edit',
+        link : ' ',
     } ,
     {
         id: 2,
         name: ' Scorevoorschrift 1B',
-        link : 'https://docs.google.com/document/d/1i_iNV4MDzShKAvKXflMa33lrSuk5jgA9/edit',
+        link : ' ',
     } ,
     {
         id: 3,
         name: '  Voorrang 1A',
-        link : 'https://docs.google.com/document/d/1i_iNV4MDzShKAvKXflMa33lrSuk5jgA9/edit',
+        link : ' ',
     } ,
     {
         id: 4,
         name: '   Brondocument 1A',
-        link : 'https://docs.google.com/document/d/1i_iNV4MDzShKAvKXflMa33lrSuk5jgA9/edit',
+        link : ' ',
     } ,
     {
         id: 5,
         name: '  Beoordeling 1B',
-        link : 'https://docs.google.com/document/d/1i_iNV4MDzShKAvKXflMa33lrSuk5jgA9/edit',
+        link : ' ',
     } ,
 ]
 export const docFaseTwo = [
     {
         id: 1,
         name: ' Reader 2A & 2B',
-        link : 'https://docs.google.com/document/d/1i_iNV4MDzShKAvKXflMa33lrSuk5jgA9/edit',
+        link : ' ',
     } ,
     {
         id: 2,
         name: ' Matrijsnotitie 2A',
-        link : 'https://docs.google.com/document/d/1i_iNV4MDzShKAvKXflMa33lrSuk5jgA9/edit',
+        link : ' ',
     } ,
     {
         id: 3,
         name: 'Matrijsnotitie 2B',
-        link : 'https://docs.google.com/document/d/1i_iNV4MDzShKAvKXflMa33lrSuk5jgA9/edit',
+        link : ' ',
     } ,
     {
         id: 4,
         name: 'Leerlingkenmerken',
-        link : 'https://docs.google.com/document/d/1i_iNV4MDzShKAvKXflMa33lrSuk5jgA9/edit',
+        link : ' ',
     } ,
 ]
 export const docFaseThree = [
     {
         id: 1,
         name: ' Reader 3',
-        link : 'https://docs.google.com/document/d/1i_iNV4MDzShKAvKXflMa33lrSuk5jgA9/edit',
+        link : ' ',
     } ,
     {
         id: 2,
         name: '  Beoordeling 3',
-        link : 'https://docs.google.com/document/d/1i_iNV4MDzShKAvKXflMa33lrSuk5jgA9/edit',
+        link : ' ',
     } ,
     {
         id: 3,
         name: ' Presentatie praktijkbegeleiding',
-        link : 'https://docs.google.com/document/d/1i_iNV4MDzShKAvKXflMa33lrSuk5jgA9/edit',
+        link : ' ',
     } ,
     {
         id: 4,
         name: ' Blanco Lesplan',
-        link : 'https://docs.google.com/document/d/1i_iNV4MDzShKAvKXflMa33lrSuk5jgA9/edit',
+        link : ' ',
     } ,
     {
         id: 5,
         name: ' Lesplan bocht achteruit',
-        link : 'https://docs.google.com/document/d/1i_iNV4MDzShKAvKXflMa33lrSuk5jgA9/edit',
+        link : ' ',
     } ,
     {
         id: 6,
         name: ' Lesplan Keren d.m.v. steken',
-        link : 'https://docs.google.com/document/d/1i_iNV4MDzShKAvKXflMa33lrSuk5jgA9/edit',
+        link : ' ',
     } ,
     {
         id: 7,
         name: ' Lesplan puntsgewijs',
-        link : 'https://docs.google.com/document/d/1i_iNV4MDzShKAvKXflMa33lrSuk5jgA9/edit',
+        link : ' ',
     } ,
 
 ]
